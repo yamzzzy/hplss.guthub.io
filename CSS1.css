@@ -1,0 +1,27 @@
+#nav1, #nav1 li {
+  margin: 0;
+  padding: 0;
+}
+#nav1 {
+  text-align: center; 
+  background: rgb(148, 0, 211);
+}
+#nav1 li {
+  display: inline-block;
+  padding: 3px 20px;
+  color: #EE82EE;
+}
+#nav1 a {
+  display: block;
+  padding: 3px 20px;
+  color: #FFE4E1;
+  text-decoration: none;
+}
+#nav1 a:hover {
+  background: rgb(186, 85, 211);
+}
+#ssoc ul li{
+   list-style-type: none;
+   display: inline-block;
+   float: left;
+}
